@@ -2,8 +2,8 @@
 
 # Patches information
 
-The directory named "lib" contains 2 patches for the "Griffith" program.
-In particular, two files have been modified:
+The directory named "lib" contains 3 patches for the "Griffith" program.
+In particular, the files that have been modified are:
 * Movie.py -> This patch allows the use of the program, even if the "griffith.cc" server is offline.
 * backup.py -> This file fixes the bug that did not allow the backup to be restored
 * PluginMovieMyMoviesIt.py -> This patch allows you to extract all the data about a movie (including the poster) from mymovies.cit. It is also easier to be able to identify a movie in search results.
